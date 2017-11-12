@@ -1,5 +1,5 @@
 ## hackpack
-_ Smart backpack security powered by Arduino, Android, and Bluetooth.  _
+_Smart backpack security powered by Arduino, Android, and Bluetooth._
 
 **Features**
 
