@@ -1,3 +1,3 @@
 # hackpack
 Smart backpack security powered by Arduino, Android, and Bluetooth. 
-Built for HackPrinceton Fall 2017, includes Arduino source and Android app project files.
+Built for HackPrinceton Fall 2017, includes Arduino source and Android app project files. In current form only compatible with the third-party nRF Connect app.
