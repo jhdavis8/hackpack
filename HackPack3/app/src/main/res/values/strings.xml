@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hack Pack</string>
+    <string name="edit_message">Enter your name</string>
+    <string name="welcome_button">Get started!</string>
+    <string name="phone_number">(XXX-XXX-XXXX)</string>
+    <string name="welcome_title">Welcome! We\'ve got your back (pack)!</string>
+    <string name="alarm_info">Below is the toggle for the alarm. When the alarm is set to \'on\', any movement of the bag will send a text to your phone and an alarm will sound.</string>
+</resources>
