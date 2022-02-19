@@ -1,6 +1,8 @@
 ## hackpack
 _Smart backpack security powered by Arduino, Android, and Bluetooth._
 
+Project is not actively developed.
+
 **Features**
 
 Accelerometer-based motion monitoring
